@@ -1,2 +1,3 @@
 # Visualizzazione-Scientifica
-Progetto per il corso di Visualizzazione Scientifica unimi
+Progetto di Visualizzazione Scientifica sull'analisi di partite di scacchi effettuate su Lichess.com.
+
